@@ -1,0 +1,17 @@
+# Build directories
+Debug/
+Release/
+bin/
+obj/
+
+# Toolchain generated files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.su
+
+# IDE specific (optional, but keeps things clean)
+.settings/
